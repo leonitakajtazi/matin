@@ -21,7 +21,6 @@ const services = [
   { name: 'Pflasterarbeiten', description: 'Professionelle Verlegung für Wege, Einfahrten und Terrassen.', icon: <PavingIcon /> },
   { name: 'Steinarbeiten', description: 'Individuelle Gestaltung mit Naturstein, Mauern und Zier-Elementen.', icon: <StoneworkIcon /> },
   { name: 'Garten- & Landschaftsbau', description: 'Komplette Neuanlagen und Umgestaltungen von Gärten.', icon: <GardenIcon /> },
-  { name: 'Gleisbau & Infrastruktur', description: 'Spezialisierte Arbeiten im Bereich Gleisbau und Infrastruktur.', icon: <TrackIcon /> },
 ];
 
 const Services: React.FC = () => {
