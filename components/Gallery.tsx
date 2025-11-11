@@ -7,6 +7,9 @@ const galleryImages = [
     { src: '/assets/gallery/img4.jpeg', alt: 'Arbeiter verlegen Rasengittersteine zwischen Gleisen' },
     { src: '/assets/gallery/img2.jpeg', alt: 'Fertiggestellte Pflasterfläche vor einer Doppelgarage' },
     { src: '/assets/gallery/img1.jpeg', alt: 'Präzise Pflasterarbeiten für eine langlebige und stabile Straßenoberfläche' },
+        { src: '/assets/gallery/1.jpg', alt: 'Gepflasterte Terrasse mit moderner Sitzgruppe' },
+{ src: '/assets/gallery/2.jpg', alt: 'Umfassende Untergrundvorbereitung für einen Parkplatz oder Zufahrtsbereich an einem Mehrfamilienhaus.' },
+{ src: '/assets/gallery/3.jpg', alt: 'Verlegung von Rasengittersteinen für eine umweltfreundliche und stabile Parkfläche oder Zufahrt.' },
 ]
 const Gallery: React.FC = () => {
     return (
