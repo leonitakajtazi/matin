@@ -3,10 +3,10 @@ import React from 'react';
 
 const values = [
     { title: "Schnell & Zuverlässig", description: "Wir halten Termine ein und liefern pünktlich erstklassige Ergebnisse." },
-    { title: "Faire Preise", description: "Transparente Kosten und ein hervorragendes Preis-Leistungs-Verhältnis." },
-    { title: "Saubere Arbeit", description: "Wir verlassen jede Baustelle makellos und legen Wert auf höchste Qualität." },
-    { title: "Kostenlose Beratung", description: "Wir beraten Sie umfassend und erstellen ein unverbindliches Angebot." },
+    { title: "Faire Preise & Saubere Arbeit", description: "Transparente Kosten, saubere Ausführung und höchste Qualität." },
+    { title: "Beratung & Besichtigung Kostenlos", description: "Wir beraten Sie umfassend und erstellen ein unverbindliches Angebot." },
 ];
+
 
 const CheckIcon = () => (
     <svg className="w-6 h-6 text-primary flex-shrink-0 mr-3 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
