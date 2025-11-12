@@ -25,7 +25,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         <a href="#" className="flex items-center space-x-2">
           <div className="bg-white rounded-full p-1">
-             <img src="/public/favicon.png" alt="Matini Bau Logo" className="h-10 w-10 rounded-full" />
+      <img src="/favicon.png" alt="Matini Bau Logo" className="h-10 w-10 rounded-full" />
           </div>
           <span className="text-xl font-bold text-white tracking-tight">Matini Bau</span>
         </a>
