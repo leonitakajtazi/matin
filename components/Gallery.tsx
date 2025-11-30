@@ -1,10 +1,17 @@
 import React, { useState } from 'react';
 
 const galleryImages = [
-  { src: '/assets/gallery/sc1.png', alt: 'Breite gepflasterte Einfahrt vor einer modernen Garage' },
-  { src: '/assets/gallery/4.jpg', alt: 'Neu gepflasterter Bürgersteig neben Straßenbahnschienen in der Stadt' },
-  { src: '/assets/gallery/img3.jpeg', alt: 'Nahaufnahme von grauen Pflastersteinen auf einer Baustelle' },
-  { src: '/assets/gallery/img4.jpeg', alt: 'Arbeiter verlegen Rasengittersteine zwischen Gleisen' },
+    { src: '/assets/gallery/f1.jpg'},
+    { src: '/assets/gallery/f4.jpg' },
+    { src: '/assets/gallery/f3.jpg'},
+    { src: '/assets/gallery/f2.jpg' },
+    { src: '/assets/gallery/f5.jpg'},
+    { src: '/assets/gallery/f6.jpg' },
+    { src: '/assets/gallery/f7.jpg' },
+  { src: '/assets/gallery/sc1.png' },
+  { src: '/assets/gallery/4.jpg' },
+  { src: '/assets/gallery/img3.jpeg' },
+  { src: '/assets/gallery/img4.jpeg'},
   { src: '/assets/gallery/img2.jpeg', alt: 'Fertiggestellte Pflasterfläche vor einer Doppelgarage' },
   { src: '/assets/gallery/img1.jpeg', alt: 'Präzise Pflasterarbeiten für eine langlebige und stabile Straßenoberfläche' },
   { src: '/assets/gallery/1.jpg', alt: 'Gepflasterte Terrasse mit moderner Sitzgruppe' },
